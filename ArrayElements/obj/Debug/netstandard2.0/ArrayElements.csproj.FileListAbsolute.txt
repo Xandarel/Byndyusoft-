@@ -7,3 +7,12 @@ C:\Users\aobor\source\repos\Byndyusoft\ArrayElements\obj\Debug\netstandard2.0\Ar
 C:\Users\aobor\source\repos\Byndyusoft\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.AssemblyInfo.cs
 C:\Users\aobor\source\repos\Byndyusoft\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.dll
 C:\Users\aobor\source\repos\Byndyusoft\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.pdb
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\bin\Debug\netstandard2.0\ArrayElements.deps.json
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\bin\Debug\netstandard2.0\ArrayElements.dll
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\bin\Debug\netstandard2.0\ArrayElements.pdb
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.csprojAssemblyReference.cache
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.AssemblyInfoInputs.cache
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.AssemblyInfo.cs
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.dll
+C:\Users\aobor\OneDrive\Документы\GitHub\Byndyusoft-\ArrayElements\obj\Debug\netstandard2.0\ArrayElements.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj": {}
+    "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\Byndyusoft\\Byndyusoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj": {
+    "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\ArrayElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj",
+        "projectUniqueName": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\ArrayElements.csproj",
         "projectName": "ArrayElements",
-        "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj",
+        "projectPath": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\ArrayElements.csproj",
         "packagesPath": "C:\\Users\\aobor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\obj\\",
+        "outputPath": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj": {
+    "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\Byndyusoft\\Byndyusoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj",
+        "projectUniqueName": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\Byndyusoft\\Byndyusoft.csproj",
         "projectName": "Byndyusoft",
-        "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj",
+        "projectPath": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\Byndyusoft\\Byndyusoft.csproj",
         "packagesPath": "C:\\Users\\aobor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\obj\\",
+        "outputPath": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\Byndyusoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj": {
-                "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj"
+              "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\ArrayElements.csproj": {
+                "projectPath": "C:\\Users\\aobor\\OneDrive\\Документы\\GitHub\\Byndyusoft-\\ArrayElements\\ArrayElements.csproj"
               }
             }
           }
