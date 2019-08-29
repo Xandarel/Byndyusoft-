@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj",
+        "projectName": "ArrayElements",
+        "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj",
+        "packagesPath": "C:\\Users\\aobor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aobor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj",
+        "projectName": "Byndyusoft",
+        "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\Byndyusoft.csproj",
+        "packagesPath": "C:\\Users\\aobor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\Byndyusoft\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aobor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj": {
+                "projectPath": "C:\\Users\\aobor\\source\\repos\\Byndyusoft\\ArrayElements\\ArrayElements.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

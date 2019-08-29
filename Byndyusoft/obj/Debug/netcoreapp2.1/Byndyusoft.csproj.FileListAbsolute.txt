@@ -1,0 +1,14 @@
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.csprojAssemblyReference.cache
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.csproj.CoreCompileInputs.cache
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.AssemblyInfoInputs.cache
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.AssemblyInfo.cs
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\Byndyusoft.deps.json
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\Byndyusoft.runtimeconfig.json
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\Byndyusoft.runtimeconfig.dev.json
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\Byndyusoft.dll
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\Byndyusoft.pdb
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\ArrayElements.dll
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\bin\Debug\netcoreapp2.1\ArrayElements.pdb
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.csproj.CopyComplete
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.dll
+C:\Users\aobor\source\repos\Byndyusoft\Byndyusoft\obj\Debug\netcoreapp2.1\Byndyusoft.pdb
