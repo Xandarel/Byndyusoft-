@@ -10,40 +10,9 @@ namespace ArrayElements
         {
             if (array.Length == 0)
                 return 0;
-            //var min1 = FindMinElements(0, array, 2);
-            //var min2 = FindMinElements(1, array, 2);
-            //HoareSort(array, 0, array.Length - 1);
+            if (array.Length == 1)
+                return array[0];
             return OneRunForArray(array);
-        }
-
-        static void HoareSort(double[] array, int start, int end)
-        {
-            if (end == start) return;
-            var pivot = array[end];
-            var storeIndex = start;
-            for (int i = start; i <= end - 1; i++)
-                if (array[i] <= pivot)
-                {
-                    var t = array[i];
-                    array[i] = array[storeIndex];
-                    array[storeIndex] = t;
-                    storeIndex++;
-                }
-
-            var n = array[storeIndex];
-            array[storeIndex] = array[end];
-            array[end] = n;
-            if (storeIndex > start) HoareSort(array, start, storeIndex - 1);
-            if (storeIndex < end) HoareSort(array, storeIndex + 1, end);
-        }
-
-        static double FindMinElements(int start, double[] array, int step)
-        {
-            var min = array[start];
-            for(int i=start+step;i<array.Length;i+=step)
-                if (array[i] < min)
-                    min = array[i];
-            return min;
         }
 
         static double OneRunForArray(double[] array)
