@@ -8,7 +8,7 @@ namespace UnitTest
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void EmptyArray()
         {
             var array = new double[0];
             var result = MinElements.SummMinimumElementOfArray(array);
@@ -28,6 +28,26 @@ namespace UnitTest
             var array = new double[] { 5, -1, 12, 7, 4 };
             var result = MinElements.SummMinimumElementOfArray(array);
             Assert.AreEqual(3, result);
+        }
+
+        [TestMethod]
+        public void OneElementInArray()
+        {
+            var array = new double[] { 1 };
+            var result = MinElements.SummMinimumElementOfArray(array);
+            Assert.AreEqual(1, result);
+        }
+
+        [TestMethod]
+        public void OversizeArray()
+        {
+            var array = new double[1000];
+            var rand = new Random();
+            for (int i=0;i<1000;i++)
+                array[i] = rand.NextDouble() * i;
+            array[20] = -1;
+            array[400] = -5;
+            Assert.AreEqual(array[20] + array[400], MinElements.SummMinimumElementOfArray(array));
         }
     }
 }
