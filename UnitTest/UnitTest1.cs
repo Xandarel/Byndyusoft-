@@ -10,9 +10,17 @@ namespace UnitTest
         [TestMethod]
         public void EmptyArray()
         {
+            Exception exception = null;
             var array = new double[0];
-            var result = MinElements.SummMinimumElementOfArray(array);
-            Assert.AreEqual(0, result);
+            try
+            {
+                var result = MinElements.SummMinimumElementOfArray(array);
+            }
+            catch (NullReferenceException e)
+            {
+                exception = e;
+            }
+            Assert.IsNotNull(exception);
         }
         [TestMethod]
         public void NotInicializeArray()

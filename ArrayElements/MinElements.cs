@@ -9,7 +9,7 @@ namespace ArrayElements
         public static double SummMinimumElementOfArray(double[] array)
         {
             if (array.Length == 0)
-                return 0;
+                throw new NullReferenceException();
             if (array.Length == 1)
                 return array[0];
             return OneRunForArray(array);
