@@ -57,5 +57,12 @@ namespace UnitTest
             array[400] = -5;
             Assert.AreEqual(array[20] + array[400], MinElements.SummMinimumElementOfArray(array));
         }
+
+        [TestMethod]
+        public void ArrayWithNan()
+        {
+            var array = new double[] { 1, 2, 3, Double.NaN, 4 };
+            Assert.AreEqual(3, MinElements.SummMinimumElementOfArray(array));
+        }
     }
 }
