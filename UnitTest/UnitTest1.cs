@@ -64,5 +64,21 @@ namespace UnitTest
             var array = new double[] { 1, 2, 3, Double.NaN, 4 };
             Assert.AreEqual(3, MinElements.SummMinimumElementOfArray(array));
         }
+        [TestMethod]
+        public void ArrayWithOnlyNaN()
+        {
+            var array = new double[] { double.NaN};
+            Exception exception = null;
+            try
+            {
+                var result = MinElements.SummMinimumElementOfArray(array);
+            }
+            catch (NotFiniteNumberException e)
+            {
+                exception = e;
+            }
+            Assert.IsNotNull(exception);
+            //Assert.AreEqual(double.NaN, MinElements.SummMinimumElementOfArray(array));
+        }
     }
 }

@@ -10,7 +10,9 @@ namespace ArrayElements
         {
             if (array.Length == 0)
                 throw new NullReferenceException();
-            if (array.Length == 1)
+            if ((double.IsNaN(array[0]))&&(array.Length==1))
+                throw new NotFiniteNumberException();
+            if (array.Length == 1) 
                 return array[0];
             return OneRunForArray(array);
         }

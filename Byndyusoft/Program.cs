@@ -7,7 +7,7 @@ namespace Byndyusoft
 
         static void Main()
         {
-            var array = new double[] {};
+            var array = new double[] {double.NaN};
             Console.WriteLine(MinElements.SummMinimumElementOfArray(array));
         }
 
